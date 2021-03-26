@@ -1,0 +1,5 @@
+net.Start("wd_disableanticheat")
+ net.WriteEntity(LocalPlayer())
+ net.WriteBit(4)
+net.SendToServer()
+print("made by github.com/ANrmlHuman")
