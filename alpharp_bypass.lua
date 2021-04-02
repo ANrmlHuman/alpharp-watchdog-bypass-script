@@ -12,5 +12,5 @@ end
  net.WriteString(GenKey())
 net.SendToServer()
 print("fixed by github.com/ANrmlHuman/")
--- this was fixed from the patch
- -- this was found by grabbing all of the nets on AlphaRP
+--this was fixed from the patch
+--this was found by grabbing all of the nets on AlphaRP
